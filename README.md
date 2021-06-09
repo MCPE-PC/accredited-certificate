@@ -1,5 +1,8 @@
 # Accredited Certificate
 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/KoalaSign/accredited-certificate/Node.js%20CI?style=flat-square&logoColor=959da5)](https://github.com/KoalaSign/accredited-certificate/actions/workflows/node.js.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKoalaSign%2Faccredited-certificate.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2FKoalaSign%2Faccredited-certificate?ref=badge_small)
+
 공동인증서를 분석하는 도구입니다
 
 ## Try me...
