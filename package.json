@@ -27,7 +27,7 @@
     "pkijs": "^2.1.94"
   },
   "devDependencies": {
-    "xo": "^0.38.2"
+    "xo": "^0.40.3"
   },
   "engines": {
     "node": ">=15.6.0"
